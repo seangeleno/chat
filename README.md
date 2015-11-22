@@ -1,5 +1,5 @@
 
-# Shat - Schat with Sockets
+# Schat with Sockets
 
 This is the README markdown for Schat with Sockets.
 
@@ -27,8 +27,6 @@ Pretty cool, I know, right?!
  If a user does not have a profile, they must CREATE one prior to using Schat's services. Upon login they will see who they can chat with. <!-- Additional description of features, upon completion of application -->. It will be built and implemented using socket.IO and the MEAN technology stack.
 
 There will be full CRUD functionality for users for their profiles. Users will be able to CREATE a user profile, and upon signing in, have the ability to READ their user info, UPDATE/edit their information, and DESTROY their user profile. If the user attempts to provide credentials and fails at authentication three times in a row, they will be forwarded to the CREATE user (sign-up) page.
-
-The logged in user activities will be logged to a Mongo database. The object will include eight different activities to choose from <!--name 8 activities here -->
 
 ## Technologies/APIs Used
 
